@@ -1,4 +1,4 @@
-module github.com/chaijingchao1982/gomodv
+module github.com/chaijingchao1982/gomodv/v2
 
 go 1.20
 
